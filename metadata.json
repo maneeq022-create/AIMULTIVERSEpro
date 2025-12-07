@@ -1,0 +1,7 @@
+{
+  "name": "\\\\||AI Multiverse Pro||\\\\Advance",
+  "description": "A complete AI studio featuring Voice Cloning, Translation, TTS, Image-to-Video, and more with a comprehensive credit and subscription system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
